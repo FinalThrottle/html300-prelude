@@ -1,1 +1,6 @@
-A hiking website that will be using some sort of weather API.
+Throughout the initial assignment, the idea of a hiking website grew more appealing as a course project throughout the HTML 300 course. As an avid hiker, the sceneries one encounters are nothing short but stunning. What better way to have others experiences the same thing, then to post pictures and tells him or her of your experience for each hike and trail?
+
+The APIs that are to be incorporated are the TrailAPI and Open Weather Map API.  TrailAPI allows for users to gather information and photos for tens and thousands outdoor recreation locations – one of the locations being of course, Washington. In additional to posting my own photos, trail conditions, and experience, if a user would like more details then the TrailAPI will come in handy. Using the TrailAPI, users are able to find numerous hikers’ own experience, and other photos that offer a different perspective from mine. 
+
+Open Weather Map API will be a great addition, in conjunction with TrailAPI.  In addition to users wanting to find hikes, and to gather information solely on it, Open Weather Map will be the next step to planning their hike. Users will be able to get weather and weather forecasts for hikes in Washington, which includes forecast for today or for the rest of the week that a user is planning. 
+
